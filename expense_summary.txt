@@ -1,0 +1,12 @@
+===== EXPENSE SUMMARY =====
+
+Total Entries: 7
+Total Spent: 21050.00
+Highest Expense: date - 10000.00
+
+Category-wise Totals:
+patel                : 1400.00
+date                 : 10000.00
+food                 : 300.00
+travel               : 1250.00
+shopping             : 8100.00

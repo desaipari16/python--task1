@@ -1,2 +1,14 @@
-Date,Category,Description,Amount
-12-02-2008,patel,user python,1400.0
+amount,category,description,date
+250.0,Food,lunch,2003-02-16
+350.0,Transport,bus,2004-06-24
+100.0,Travel,car,2005-08-28
+150.0,travel,bus,2006-05-15
+250.0,travel,bus,2005-06-27
+278.0,shopping,shopping,2006-04-20
+354.0,food,lunch,2007-09-05
+400.0,travel,train,2001-06-22
+500.0,food,vadapav,2003-04-21
+200.0,travel,bike,2001-05-24
+5000.0,travel,plain,2003-05-10
+210.0,shopping,jewellary,2006-08-16
+450.0,shopping,pruse,2006-07-15
